@@ -10,4 +10,4 @@
 
 #**Tugas FFT 2 Dimensi**
 Untuk FFT 2 D pada grafik tidak muncul gambar dikarenakan sinyal yang diberikan adalah sinyal 1 dimensi
-![Alt text]((https://github.com/Dhimmmmr/Sinyal-2/blob/root/FFT2D.png)
+![Alt text](https://github.com/Dhimmmmr/Sinyal-2/blob/root/FFT2D.png)
